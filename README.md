@@ -18,8 +18,8 @@ This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user c
     * TBD 
     * ![](./images/someimage.jpg)
 * Tech Stack
-    * Languages: Solidity, Truffle, CSS, JS, HTML, Postgres 
-    * Other: Ganache, Ethereum, JSON, Postman, Web3 
+    * Languages: Solidity, Truffle CSS, JS, HTML, Postgres 
+    * Other: Ganache, Ethereum, JSON, Postman, Web3, Babelrc 
 * Stretch Goals (Future)
     * TBD
 * Code Snippets

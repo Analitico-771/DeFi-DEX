@@ -3,11 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
     "@truffle/hdwallet-provider": "1.1.0",
-    "apexcharts": "3.6.3",
+    "apexcharts": "^3.27.1",
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
     "babel-preset-es2015": "6.24.1",
@@ -32,11 +29,11 @@
     "redux-logger": "3.0.6",
     "reselect": "4.0.0",
     "solidity-coverage": "0.7.10",
-    "truffle": "5.3.11",
+    "truffle": "5.1.45",
     "truffle-flattener": "1.5.0",
     "truffle-hdwallet-provider-privkey": "0.3.0",
-    "web3": "1.3.6",
-    "web-vitals": "^2.0.1"
+    "web-vitals": "^2.0.1",
+    "web3": "1.3.6"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -55,10 +52,9 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "development": [
+    "last 1 chrome version",
+    "last 1 firefox version",
+    "last 1 safari version"
+  ]
 }
-
