@@ -26,7 +26,9 @@ This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user c
     * TBD
 * Screenshots Our App
     * TBD
-    * ![](./images/someimage.jpg)
+    * ![](./images/project_images/testing/test_1._deploy_token.jpg)
+    * ![](./images/project_images/testing/test_1.1_deploy_token.jpg)
+    * ![](./images/project_images/testing/token_creation.jpg)
  
 * Logo
     * TBD
