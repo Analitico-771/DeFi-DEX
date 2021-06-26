@@ -14,9 +14,6 @@
 * Overview (description of your app)
 This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user can securely connect a crypto wallet and swap tokens and conduct other types of blockchain transactions via the Frontend Portal or by executing smart contract calls built on their application such as a trading bot, etc.
 
-* Screen Shot of App
-    * TBD 
-    * ![](./images/someimage.jpg)
 * Tech Stack
     * Languages: Solidity, Truffle CSS, JS, HTML 
     * Other: Ganache, Ethereum, JSON, Postman, Web3, Babelrc 
@@ -26,7 +23,7 @@ This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user c
     * TBD
 * Screenshots Our App
     * TBD
-    * ![](./images/project_images/testing/test_1._deploy_token.jpg)
+    * ![](./images/project_images/testing/test_1_deploy_token.jpg)
     * ![](./images/project_images/testing/test_1.1_deploy_token.jpg)
     * ![](./images/project_images/testing/token_creation.jpg)
  
