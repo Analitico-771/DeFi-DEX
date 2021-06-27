@@ -10,7 +10,7 @@
     - All buttons working and navigates to designated page
 4. Color schemes 
  - TBD
-* Title TBD (with link to live Demo)
+* Title Novaswap (with link to live Demo)
 * Overview (description of your app)
 This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user can securely connect a crypto wallet and swap tokens and conduct other types of blockchain transactions via the Frontend Portal or by executing smart contract calls built on their application such as a trading bot, etc.
 
