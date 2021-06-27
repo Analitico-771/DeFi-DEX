@@ -35,4 +35,14 @@ This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user c
     * https://github.com/AnaIitico
 
 * Resources
-    - TBD
+    * https://web3js.readthedocs.io/en/v1.3.4/
+    * https://javascript.info/async
+    * https://truffleframework.com/
+    * https://truffleframework.com/docs/truffle/testing/testing-your-contracts
+    * https://mochajs.org/
+    * https://www.chaijs.com/
+    * https://reactjs.org/
+    * https://docs.soliditylang.org/en/v0.5.7/
+    * https://eips.ethereum.org/EIPS/eip-20
+    * https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+    
