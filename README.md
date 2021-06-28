@@ -1,5 +1,10 @@
 1. The Purpose of the app is to build a Decentralized Finance (DeFi) Application (DApp) known as a Decentralized Exchange (DEX). This app will be built on the Test Network of the blockchain and will be fully compatible and functional for the Main Network.  This app will serve as a test case for the creation of a Smart Contract ERC20 Token and a DEX. Internal testing of blockchain operation and security using Mocha and Chai is implemented into the Master Plan for developing the app. People and businesses will be able to swap tokens and conduct other types of blockchain transactions via a Frontend Portal or by executing smart contract calls built on their application such as a trading bot, etc.
 
+    Testing was conducted during each step of the Token development and throughout the project to ensure that all functions worked properly and that there was not exposure to potential exploits in the code due to mathermatical errors or potential calculation exploits.
+
+    There are screenshots of the testing in https://github.com/AnaIitico/DeFi-DEX/tree/main/public/images/project_images/testingtesting/
+    
+
 2. Layout and user functionality 
     TBD
 3. M.V.P

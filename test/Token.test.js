@@ -78,16 +78,14 @@ contract('Token', ([deployer, receiver]) => {
                 
                 let invalidAmount = tokens(100000000000000000)//more than the current supply
                 await token.transfer(receiver, invalidAmount, { from: deployer }).should.be.rejectedWith(EVM_REVERT)
+                
+                invalidAmount = tokens(10)//attempt transfer with not enough 
+                await token.transfer(deployer, invalidAmount, { from: receiver }).should.be.rejectedWith(EVM_REVERT)
             })
 
-            // it('emits a Transfer event', () => {
-            //     const log = result.logs[0]
-            //     log.event.should.eq('Transfer')
-            //     const event = log.args
-            //     event.from.toString().should.equal(deployer, 'from is correct')
-            //     event.to.should.equal(receiver, 'to is correct')
-            //     event.value.toString().should.equal(amount.toString(), 'value is correct')
-            // })
+            it('rejects invalid receiver', async() => {
+                await token.transfer(0x6, amount, { from: deployer }).should.be.rejected // rejects an invalid address
+            })
         })
 
     })
