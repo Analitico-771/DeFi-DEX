@@ -27,14 +27,14 @@ This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user c
 * Code Snippets
     * TBD
 * Screenshots Our App
-    * ![](%PUBLIC_URL%/images/project_images/testing/test_1_deploy_token.jpg)
+    * ![](/public/images/project_images/testing/test_1_deploy_token.jpg)
     * ![](/public/images/project_images/testing/test_1.1_deploy_token.jpg)
     * ![](/public/images/project_images/testing/token_creation.jpg)
     * ![](/images/error.jpg)
  
 * Logo
     * TBD
-    * ![](./images/someimage.jpg)
+    * ![](/images/error.jpg)
 * Developer Team
     * Jose Tollinchi
     * https://github.com/AnaIitico
