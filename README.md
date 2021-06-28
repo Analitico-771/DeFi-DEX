@@ -20,7 +20,7 @@
 This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user can securely connect a crypto wallet and swap tokens and conduct other types of blockchain transactions via the Frontend Portal or by executing smart contract calls built on their application such as a trading bot, etc.
 
 * Tech Stack
-    * Languages: Solidity, Truffle CSS, JS, HTML 
+    * Languages: Solidity, Truffle, React, Redux, CSS, JS, HTML
     * Other: Ganache, Ethereum, JSON, Postman, Web3, Babelrc 
 * Stretch Goals (Future)
     * TBD
