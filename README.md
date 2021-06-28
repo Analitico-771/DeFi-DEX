@@ -3,7 +3,7 @@
     Testing was conducted during each step of the Token development and throughout the project to ensure that all functions worked properly and that there was not exposure to potential exploits in the code due to mathermatical errors or potential calculation exploits.
 
     There are screenshots of the testing in https://github.com/AnaIitico/DeFi-DEX/tree/main/public/images/project_images/testingtesting/
-    
+
 
 2. Layout and user functionality 
     TBD
@@ -27,8 +27,7 @@ This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user c
 * Code Snippets
     * TBD
 * Screenshots Our App
-    * TBD
-    * ![](./public/images/project_images/testing/test_1_deploy_token.jpg)
+    * ![](./images/project_images/testing/test_1_deploy_token.jpg)
     * ![](./public/images/project_images/testing/test_1.1_deploy_token.jpg)
     * ![](./public/images/project_images/testing/token_creation.jpg)
  
