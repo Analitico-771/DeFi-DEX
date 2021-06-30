@@ -19,7 +19,7 @@ contract Token {
 
     constructor() public {
         totalSupply  = 1000000000000 * (10 ** decimals);
-        balanceOf[msg.sender] = totalSupply;
+        balanceOf[msg.sender] = totalSupply;//totalSupply;
     }
 
     function transfer(address _to, uint256 _value) public returns (bool success) {

@@ -7,7 +7,7 @@ module.exports = {
   networks: {
     development: {
       host: "127.0.0.1",
-      port: 7545,
+      port: 8794,
       network_id: "*"//match any network id
     },
   },
@@ -20,12 +20,5 @@ module.exports = {
   },
 
   // Configure your compilers
-  compilers: {
-    solc: {
-      optimizer: {
-      enabled: true,
-      runs: 200
-      },
-    }
-  },
+  
 };

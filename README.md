@@ -2,8 +2,7 @@
 
     Testing is conducted during each step of the Token development and throughout the project to ensure that all functions worked properly and that there was not exposure to potential exploits in the code due to mathermatical errors or potential calculation exploits.
 
-    There are screenshots of the testing in https://github.com/AnaIitico/DeFi-DEX/tree/main/public/images/project_images/testingtesting/
-
+    There are screenshots of the testing in test/project_images folder
 
 2. Layout and user functionality 
     TBD
@@ -21,12 +20,18 @@ This app is a DeFi DEX based on Smart Contract ERC20 Token standards. The user c
 
 * Tech Stack
     * Languages: Solidity, Truffle, React, Redux, CSS, JS, HTML
-    * Other: Ganache, Ethereum, JSON, Postman, Web3, Babelrc 
+    * Other: Ganache, Ethereum, JSON, Postman, Web3, Babelrc
+     
 * Stretch Goals (Future)
     * TBD
+
 * Code Snippets
     * TBD
-* Screenshots Our App
+
+* Screenshots Of The App
+    * TBD
+
+* Screenshots Testing The App
     * ![](/test/project_images/testing/token_tests/test_1_deploy_token.jpg)
     * ![](/test/project_images/testing/token_tests/test_1.1_deploy_token.jpg)
     * ![](/test/project_images/testing/token_tests/token_creation.jpg)

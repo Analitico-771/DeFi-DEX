@@ -2,7 +2,9 @@
 
 import { tokens } from './helpers'
 import { EVM_REVERT } from './helpers'
+
 const Token = artifacts.require('./Token')
+
 require('chai')
     .use(require('chai-as-promised'))
     .should()
@@ -12,7 +14,7 @@ contract('Token', ([deployer, receiver, exchange]) => {
     const symbol = 'NOVA'
     const decimals = '18'
     const totalSupply = tokens(1000000000000).toString()
-    let token = 0
+    let token
 
     beforeEach(async() => {
         token = await Token.new() 
@@ -46,8 +48,8 @@ contract('Token', ([deployer, receiver, exchange]) => {
     })
 
     describe('sending tokens', () => {
-        let amount = '';
-        let result = '';
+        let amount
+        let result
         
         describe('success', async () => {
             beforeEach(async () => {
@@ -89,8 +91,8 @@ contract('Token', ([deployer, receiver, exchange]) => {
     })
 
     describe('approving tokens', () => {
-        let result = '';
-        let amount = '';
+        let result
+        let amount
 
         beforeEach(async () => {
             amount = tokens(100)
